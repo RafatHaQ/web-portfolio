@@ -1,0 +1,35 @@
+body{
+    margin: 0px;
+    font-family: 'Pacifico', cursive;
+}
+
+h1{
+    font-size: 50px;
+    
+}
+
+.name_highlight{
+    color:rgb(0, 14, 204);
+}
+
+.half-width{
+    width: 40%;
+    float: left; 
+    margin-left: 5%;
+    padding-left: 2%;
+}
+
+.half-width img{
+    width: 100%;
+
+}
+
+.top-banner{
+    background-image: url("images/top-banner.png");
+    background-repeat: no-repeat;
+
+}
+
+section{
+    height: 500px;
+}
